@@ -6,7 +6,7 @@
 				<meta charset="UTF-8">
 				<title>Page title</title>
 </head>
-  <body style="background-color:blue" >
+  <body style="background-color:lemongreen" >
 <p>
 	for learning programming languages <br>
 	
