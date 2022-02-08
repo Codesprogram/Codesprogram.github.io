@@ -7,7 +7,8 @@
 				<title>Page title</title>
 </head>
   <body style="background-color:blue" >
-<p>for learning programming languages <br>
+<p>
+	for learning programming languages <br>
 	
 for html href="https://Codesprogram.github.io/html"<br>
 	
