@@ -10,7 +10,7 @@
 <p>
 	for learning programming languages <br>
 	
-for html href="https://Codesprogram.github.io/html"<br>
+for html ="https://codesprogram.github.io/html/"<br>
 	
 for css ..<br>
 	
