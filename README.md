@@ -6,13 +6,13 @@
 				<title>Page title</title>
 </head>
   <body style="background-color:lightred" >
-for learning programming languages
-for html Codesprogram.github.io/html
-for css ..
-for python ..
-for c++ ..
-for java ..
-for java script ..
+<p>for learning programming languages
+for html Codesprogram.github.io/html<br>
+for css ..<br>
+for pyn ..<br>
+for c++ ..<br>
+for java ..<br>
+for java script ..<br>
 for c# ..
 <body>
 				
