@@ -6,11 +6,11 @@
 				<meta charset="UTF-8">
 				<title>Page title</title>
 </head>
-  <body style="background-color: light green" >
+  <body style="background-color:green" >
 <p>
 	for learning programming languages <br>
 	
-<br>for html ="https://codesprogram.github.io/html/"<br>
+<br>for html="https://codesprogram.github.io/html/"<br>
 	
 for css ..<br>
 	
